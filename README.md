@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PratyushaKumarKar
-- 👀 I’m interested in C/C++/Java
-- 🌱 I’m currently learning Java/Python
-- 💞️ I’m looking to collaborate on C/C++/Java
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on C/C++/Python
 - 📫 How to reach me @PratyushaKumarKar
 
 <!---
