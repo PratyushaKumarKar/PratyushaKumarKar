@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratyushaKumarKar
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Blockchain 
 - 💞️ I’m looking to collaborate on C/C++/Python
 - 📫 How to reach me @PratyushaKumarKar
 
