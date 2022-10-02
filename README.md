@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratyushaKumarKar
-- 👀 I’m interested in Java/C++/Python/Blockchain/Web Dev
+- 👀 I’m interested in Java/Python/Blockchain/Web Dev
 - 🌱 I’m currently learning Java/Python/ Blockchain /Web Dev 
 - 💞️ I’m looking to collaborate on Java/Solidity/Python
 - 📫 How to reach me @pratyushkai on twitter
