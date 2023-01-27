@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushakumarkar&show_icons=true&locale=en" alt="pratyushakumarkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushakumarkar&" alt="pratyushakumarkar" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushakumarkar&" alt="pratyushakumarkar" /></p>
 
 <!---
 PratyushaKumarKar/PratyushaKumarKar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
