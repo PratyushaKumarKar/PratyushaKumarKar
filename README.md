@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif)]
+![MasterHead](https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif)
 
 <h1 align="center">Hi 👋, I'm Pratyusha Kumar Kar</h1>
 <h3 align="center">A passionate Web3 developer</h3>
