@@ -39,6 +39,8 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushakumarkar&" alt="pratyushakumarkar" /></p>
 
+![Snake animation](https://github.com/PratyushaKumarKar/PratyushaKumarKar/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 PratyushaKumarKar/PratyushaKumarKar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
