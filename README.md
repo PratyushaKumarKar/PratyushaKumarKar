@@ -1,15 +1,18 @@
-![MasterHead](https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif)
+<!--![MasterHead](https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif)-->
+<img align="right" alt="Coding" width="1500" src="https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif">
 
-<h1 align="left">Hi 👋, I'm Pratyusha Kumar Kar</h1>
-<h3 align="left">A passionate Web3 developer</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<h1 align="center">Hi 👋, I'm Pratyusha Kumar Kar / KaiShuro </h1>
+<h3 align="center">A passionate Web3 developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushakumarkar&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushakumarkar" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyushakumarkar" alt="pratyushakumarkar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pratyushkai" target="blank"><img src="https://img.shields.io/twitter/follow/pratyushkai?logo=twitter&style=for-the-badge" alt="pratyushkai" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 - 🔭 I’m currently working on **open source web3 projects**
 
