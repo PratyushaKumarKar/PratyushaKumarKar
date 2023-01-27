@@ -54,8 +54,9 @@
 
 <p>&nbsp;&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushakumarkar&" alt="pratyushakumarkar" /></p> 
 
-![Snake animation](https://github.com/PratyushaKumarKar/PratyushaKumarKar/blob/output/github-contribution-grid-snake.svg) -->
-<p><img align ="left" src="https://github.com/PratyushaKumarKar/PratyushaKumarKar/blob/output/github-contribution-grid-snake.svg" alt="snake" /></p>
+![Snake animation](https://github.com/PratyushaKumarKar/PratyushaKumarKar/blob/output/github-contribution-grid-snake.svg) 
+<p><img align ="left" src="https://github.com/PratyushaKumarKar/PratyushaKumarKar/blob/output/github-contribution-grid-snake.svg" alt="snake" /></p> -->
+
 
 <!---
 PratyushaKumarKar/PratyushaKumarKar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
