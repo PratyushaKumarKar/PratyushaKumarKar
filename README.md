@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif)
 
-<h1 align="center">Hi 👋, I'm Pratyusha Kumar Kar</h1>
-<h3 align="center">A passionate Web3 developer</h3>
+<h1 align="left">Hi 👋, I'm Pratyusha Kumar Kar</h1>
+<h3 align="left">A passionate Web3 developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 
