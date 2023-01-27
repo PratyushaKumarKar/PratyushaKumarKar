@@ -59,8 +59,8 @@
 <p><img align ="left" src="https://github.com/PratyushaKumarKar/PratyushaKumarKar/blob/output/github-contribution-grid-snake.svg" alt="snake" /></p> -->
 
 <p>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <img alt="github-snake" src="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <img alt="github-snake" src="./github-snake-dark.svg">
 </p>
 <!---
 PratyushaKumarKar/PratyushaKumarKar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
