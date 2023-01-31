@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **open source web3 projects**
 
-- 🌱 I’m currently learning **React.js , Node.js , Moralis**
+- 🌱 I’m currently learning **React.js , Node.js**
 
 - 👯 I’m looking to collaborate on **JavaScript/Solidity/Python**
 
