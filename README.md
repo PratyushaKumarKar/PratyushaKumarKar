@@ -50,6 +50,8 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushakumarkar&" alt="pratyushakumarkar" /></p>
 
+[![PratyushaKumarKar's GitHub | Dependencies](https://stats.quine.sh/PratyushaKumarKar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=PratyushaKumarKar)
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaKumarKar&theme=blue-white" alt="pratyushakumarkar"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=PratyushaKumarKar&theme=blue-white" alt="pratyushakumarkar"/></p>
 
