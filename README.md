@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on **open source web3 projects**
 
-- 🌱 I’m currently learning **React.js , Node.js**
+- 🌱 I’m currently learning **Next.js and Rust**
 
-- 👯 I’m looking to collaborate on **JavaScript/Solidity/Python**
+- 👯 I’m looking to collaborate on **TypeScript/Rust/Solidity/Python**
 
-- 🤝 I’m looking for help with **Web3 frameworks**
+- 🤝 I’m looking for help with **Rust frameworks**
 
 - 📫 How to reach me **kaishuro15@gmail.com**
 
