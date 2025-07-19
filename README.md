@@ -1,8 +1,8 @@
 <!--![MasterHead](https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif)-->
 <img align="right" alt="Coding" width="1500" src="https://i.pinimg.com/originals/4d/9c/17/4d9c175f8ee9ecd5b14b156b36c0ecdb.gif">
 
-<h1 align="center">Hi 👋 Stalker No. <img src="https://profile-counter.glitch.me/PratyushaKumarKar/count.svg">, I'm Pratyusha Kumar Kar / KaiShuro </h1>
-<h3 align="center">A passionate Web3 developer</h3>
+<h1 align="center">Hi 👋 I'm Pratyusha Kumar Kar / KaiShuro </h1>
+<h3 align="center">A Web3(Sol , BTC) and AI (Agentic) developer</h3>
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushakumarkar&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushakumarkar" /> </p>-->
@@ -14,13 +14,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-- 🔭 I’m currently working on **open source web3 projects**
+- 🔭 I’m currently working on **AI projects**
 
 - 🌱 I’m currently learning **Next.js and Rust**
 
-- 👯 I’m looking to collaborate on **TypeScript/Rust/Solidity/Python**
+- 👯 I’m looking to collaborate on **TypeScript/Rust/Golang/Python**
 
-- 🤝 I’m looking for help with **Rust frameworks**
+- 🤝 I’m looking for help with **Rust frameworks / Browser Agents**
 
 - 📫 How to reach me **kaishuro15@gmail.com**
 
